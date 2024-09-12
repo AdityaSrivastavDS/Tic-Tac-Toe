@@ -37,9 +37,3 @@ Welcome to the **Tic-Tac-Toe** game created in Ruby! This is a simple console-ba
 - The first player to align three of their marks horizontally, vertically, or diagonally wins.
 - If all cells are filled and no player has won, the game ends in a draw.
 
-## File Structure
-
-```plaintext
-tic-tac-toe/
-├── tic_tac_toe.rb    # Main Ruby file containing the game logic
-├── README.md         # This README file
