@@ -2,9 +2,8 @@
 
 Welcome to the **Tic-Tac-Toe** game created in Ruby! This is a simple console-based implementation of the classic Tic-Tac-Toe game for two players.
 
-![Project Logo](static/Output1.png)
+![Project Logo](static/view.jfif)
 
-![Project Logo](static/Output2.png)
 
 ## Features
 
